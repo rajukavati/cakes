@@ -1,0 +1,29 @@
+body{
+    background-image: url(49afc4122729671.60df830e6839e.jpg);
+    background-size: 1500px;
+}
+form{
+    border: solid;
+    width: 350px;
+    margin-left: 1500px;
+    margin-top: 20px;
+    background-color: rgb(237, 203, 203);
+    text-align: center;
+}
+label{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}
+input{
+    height: 20px;
+    width: 230;
+    border-radius: 20px;
+}
+button{
+    height: 40px;
+    width: 129px;
+    background-color: antiquewhite;
+    border-radius: 20px;
+    color: black;
+}

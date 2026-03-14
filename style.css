@@ -1,0 +1,33 @@
+*{
+    margin: 100px;
+    padding: 0px;
+}
+body{
+    background-image: url(https://wallpapers.com/images/hd/my-birthday-cake-on-pastel-pink-background-iacbvdwnfakr9l8g.jpg);
+    background-repeat: no-repeat;
+    background-size: 1290px;
+}
+#text1{
+    color: rgb(20, 20, 82);
+    font-size: 60px;
+    margin-top: 65px;
+    margin-left: 300px;
+}
+#text2{
+    color: gray;
+    font-size: 90px;
+
+}
+button{
+    height: 40px;
+    width: 60px;
+    background-color: ghostwhite;
+}
+button a{
+    color: white;
+    font-size: 33px;
+    text-decoration: none;
+    font-weight: bold;
+}
+button:
+}
